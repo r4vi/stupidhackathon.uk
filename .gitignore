@@ -1,0 +1,5 @@
+/.idea
+node_modules/
+public/
+.gatsby-context.js
+stupidhackathon.uk.iml
