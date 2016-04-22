@@ -24,7 +24,7 @@ Sign up on Eventbrite (TODO: make event)
 
 ## THEMES
 
-There will be prize for best idea in each of these categories.
+There will be a prize for best idea in each of these categories.
 
   * MARGINALLY MORE EFFICIENT FOOD DELIVERY
   * PUT SOME SENSORS ON IT

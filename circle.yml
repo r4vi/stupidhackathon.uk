@@ -6,7 +6,6 @@ deployment:
   production:
     branch: master
     commands:
-      - git config --global user.email "kotecha.ravi+circle@gmail.com"
-      - git config --global user.name "Ravi Kotecha"
+      - sudo pip install awscli
       - ./node_modules/.bin/gatsby build
-      - ./node_modules/.bin/gh-pages -m 'auto commit [ci skip]' -d public
+      - aws s3 sync ./public/ s3://stupidhackathon/
