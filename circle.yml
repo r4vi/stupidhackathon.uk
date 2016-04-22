@@ -6,6 +6,5 @@ deployment:
   production:
     branch: master
     commands:
-      - sudo pip install awscli
       - ./node_modules/.bin/gatsby build
       - aws s3 sync ./public/ s3://stupidhackathon/
