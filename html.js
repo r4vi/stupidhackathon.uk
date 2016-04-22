@@ -4,6 +4,7 @@ import DocumentTitle from 'react-document-title'
 import { prefixLink } from 'gatsby-helpers'
 import { TypographyStyle } from 'utils/typography'
 import { colors } from 'utils/colors'
+import GA from 'components/ga'
 
 module.exports = React.createClass({
   displayName: 'HTML',
@@ -42,6 +43,7 @@ module.exports = React.createClass({
           />
         </head>
         <body>
+          <GA />
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           <script src={prefixLink('/bundle.js')} />
         </body>
