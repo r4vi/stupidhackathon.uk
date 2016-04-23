@@ -1,10 +1,13 @@
 machine:
   node:
     version: 5.3.0
+  python:
+      version: 2.7.6
 
 deployment:
   production:
     branch: master
     commands:
+      - sudo pip install awscli
       - ./node_modules/.bin/gatsby build
-      - aws s3 sync ./public/ s3://stupidhackathon/
+      - aws s3 sync ./public/ s3://stupidhackathon/ 
