@@ -7,6 +7,7 @@ import { colors, activeColors } from 'utils/colors'
 import include from 'underscore.string/include'
 import typography from 'utils/typography'
 import { config } from 'config'
+import GA from 'components/ga'
 
 // Import styles.
 import 'css/main.css'
@@ -92,6 +93,7 @@ module.exports = React.createClass({
         >
           {this.props.children}
         </Container>
+        <GA path={this.props.location.pathname} />
       </div>
     )
   },
