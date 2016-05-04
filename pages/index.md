@@ -12,7 +12,7 @@ Because the stuff you do at work isn't pointless enough.
 
 ## WHEN
 
-14-15 May 2016
+TBD
 
 ## WHERE
 
