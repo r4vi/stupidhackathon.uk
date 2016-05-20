@@ -48,7 +48,7 @@ module.exports = React.createClass({
               <Span
                 columns={10}
                 style={{
-                  height: 24, // Ugly hack. How better to constrain height of div?
+                  minHeight: 24, // Ugly hack. How better to constrain height of div?
                 }}
               >
                 <Link
