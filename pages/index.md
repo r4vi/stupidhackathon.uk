@@ -12,11 +12,14 @@ Because the stuff you do at work isn't pointless enough.
 
 ## WHEN
 
-TBD
+July 23rd, 2016 (Saturday)
 
 ## WHERE
 
-TBC
+Potato London
+The Network Building
+97 Tottenham Court Road
+London W1T 4TP
 
 ## HOW
 
