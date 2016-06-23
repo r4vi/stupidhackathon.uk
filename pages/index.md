@@ -25,7 +25,7 @@ London W1T 4TP
 
 ## HOW
 
-Sign up on Eventbrite (TODO: make event)
+<a href="https://ti.to/stupid-hackathon-london/2016">GET YOUR TICKETS HERE</a>
 
 ## THEMES
 
