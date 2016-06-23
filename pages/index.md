@@ -55,7 +55,7 @@ There will be a prize for best idea in each of these categories.
 
 ## CONTACT
 
-tweet us [@r4vi](https://twitter.com/r4vi) or [@jasiek_](https://twitter.com/jasiek_)
+tweet us [@stupidhackuk](https://twitter.com/stupidhackuk) or email at: [help@stupidhackathon.uk](mailto:help@stupidhackathon.uk)
 
 ## HOW DO I RUN ONE?
 
