@@ -1,5 +1,4 @@
-# gatsby-starter-documentation
-Starter for building documentation site with GatsbyJS
+[![CircleCI](https://circleci.com/gh/r4vi/stupidhackathon.uk.svg?style=svg)](https://circleci.com/gh/r4vi/stupidhackathon.uk)
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-documentation-site https://github.com/gatsbyjs/gatsby-starter-documentation`
+# https://www.stupidhackaton.uk
+
