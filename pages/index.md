@@ -27,7 +27,8 @@ London W1T 4TP
 
 Get your ticket via the form below:
 
-<tito-widget event="stupid-hackathon-london/2016"></tito-widget>
+<tito-widget event="stupid-hackathon-london/2016">
+</tito-widget>
 
 ## THEMES
 
