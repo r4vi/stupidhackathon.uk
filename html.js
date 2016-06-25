@@ -30,7 +30,7 @@ module.exports = React.createClass({
           <title>{title}</title>
           <TypographyStyle />
             {cssLink}
-          <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+          <link rel="stylesheet" type="text/css" href="https://css.tito.io/v1.1" />
           <style
             dangerouslySetInnerHTML={{
               __html:
@@ -45,7 +45,7 @@ module.exports = React.createClass({
         <body>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           <script src={prefixLink('/bundle.js')} />
-          <script src='https://js.tito.io/v1' defer></script>   
+          <script src="https://js.tito.io/v1" defer></script>
          </body>
       </html>
     )
