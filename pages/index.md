@@ -21,7 +21,7 @@ The Network Building
 97 Tottenham Court Road  
 London W1T 4TP  
 
-<a href="https://www.google.com/maps/place/97+Tottenham+Court+Road,+London+W1T+4TP/"><img src="http://maps.googleapis.com/maps/api/staticmap?center=97+Tottenham+Court+Road,+London+W1T+4TP&zoom=15&scale=1&size=300x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0x637bfc%7Clabel:%7C97+Tottenham+Court+Road,+London+W1T+4TP" alt="Google Map of 97 Tottenham Court Road, London W1T 4TP"></a>
+<a href="https://www.google.com/maps/place/97+Tottenham+Court+Road,+London+W1T+4TP/"><img src="https://maps.googleapis.com/maps/api/staticmap?center=97+Tottenham+Court+Road,+London+W1T+4TP&zoom=15&scale=1&size=300x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0x637bfc%7Clabel:%7C97+Tottenham+Court+Road,+London+W1T+4TP" alt="Google Map of 97 Tottenham Court Road, London W1T 4TP"></a>
 
 ## HOW
 
