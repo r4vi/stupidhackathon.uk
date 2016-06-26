@@ -32,8 +32,6 @@ Get your ticket via the form below:
 
 ## THEMES
 
-There will be a prize for best idea in each of these categories.
-
   * MARGINALLY MORE EFFICIENT FOOD DELIVERY
   * PUT SOME SENSORS ON IT
   * PENTA-COPTORS
@@ -59,6 +57,10 @@ There will be a prize for best idea in each of these categories.
 ## CONTACT
 
 tweet us [@stupidhackuk](https://twitter.com/stupidhackuk) or email at: [help@stupidhackathon.uk](mailto:help@stupidhackathon.uk)
+
+## WHO RUNS THIS?
+
+Jan Szumiec ([@jasiek_](https://twitter.com/jasiek_)) and Ravi Kotecha ([@r4vi](https://twitter.com/r4vi)).
 
 ## HOW DO I RUN ONE?
 
