@@ -27,7 +27,17 @@ module.exports = React.createClass({
             name="viewport"
             content="width=device-width, initial-scale=1.0 maximum-scale=5.0"
           />
-          <title>{title}</title>
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:site" content="@stupidhackuk"/>
+            <meta name="twitter:title" content="Stupid Hackathon London"/>
+            <meta name="twitter:description" content="Come, build something useless."/>
+
+            <meta property="og:url" content="https://www.stupidhackathon.uk/"/>
+            <meta property="og:type" content="article"/>
+            <meta property="og:title" content="Stupid Hackathon London"/>
+            <meta property="og:description" content="Come, build something useless."/>
+            
+            <title>{title}</title>
           <TypographyStyle />
             {cssLink}
           <link rel="stylesheet" type="text/css" href="https://css.tito.io/v1.1" />
