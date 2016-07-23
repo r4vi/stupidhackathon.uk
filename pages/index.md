@@ -26,7 +26,7 @@ We'll start demos at 6PM - everyone will have at least 5 minutes to present thei
 Depending on what people will feel like, we'll move to a nearby pub at around 8PM.
 
 #### CHAT
-We have a [discord room][chat] if you want to chat to fellow hackers: https://discord.gg/vzZrC
+We have a [discord room][chat] if you want to chat to fellow hackers: https://discord.gg/RzwymGC
 
 ## WHAT
 
@@ -129,5 +129,5 @@ You're welcome to steal the idea for your city.
 
 Made with <a href="https://github.com/gatsbyjs/">Gatsby</a> a React.js static site generator.
 
-[chat]: https://discord.gg/vzZrC
+[chat]: https://discord.gg/RzwymGC
 [@r4vi]: https://twitter.com/r4vi
