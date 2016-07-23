@@ -27,16 +27,15 @@ module.exports = React.createClass({
             name="viewport"
             content="width=device-width, initial-scale=1.0 maximum-scale=5.0"
           />
-            <meta name="twitter:card" content="summary"/>
-            <meta name="twitter:site" content="@stupidhackuk"/>
-            <meta name="twitter:title" content="Stupid Hackathon London"/>
-            <meta name="twitter:description" content="Come, build something useless."/>
+            <meta name="twitter:card" content="summary" />
+            <meta name="twitter:site" content="@stupidhackuk" />
+            <meta name="twitter:title" content="Stupid Hackathon London" />
+            <meta name="twitter:description" content="Come, build something useless." />
 
-            <meta property="og:url" content="https://www.stupidhackathon.uk/"/>
-            <meta property="og:type" content="article"/>
-            <meta property="og:title" content="Stupid Hackathon London"/>
-            <meta property="og:description" content="Come, build something useless."/>
-            
+            <meta property="og:url" content="https://www.stupidhackathon.uk/" />
+            <meta property="og:type" content="article" />
+            <meta property="og:title" content="Stupid Hackathon London" />
+            <meta property="og:description" content="Come, build something useless." />
             <title>{title}</title>
           <TypographyStyle />
             {cssLink}
