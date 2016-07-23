@@ -2,12 +2,15 @@
 title: "STUPID SHIT NO ONE NEEDS & TERRIBLE IDEAS HACKATHON — LONDON"
 ---
 
+### UPDATE @ 17:30 2016-07-23
+
+🍕 will be here soon! Then we'll start the presentations
+
 ### UPDATE @ 11:15 2016-07-23
 
 The doors are closed. If you're late then:
 
 * Press the door buzzer for Potato
-* call [@r4vi] on 07742340431 
 * @ us in the [chat]
 
 and someone will come and let you in.
