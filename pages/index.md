@@ -2,6 +2,8 @@
 title: "STUPID SHIT NO ONE NEEDS & TERRIBLE IDEAS HACKATHON — LONDON"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4iPLb9RjHI" frameborder="0" allowfullscreen></iframe>
+
 ### UPDATE @ 17:30 2016-07-23
 
 🍕 will be here soon! Then we'll start the presentations
